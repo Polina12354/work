@@ -1,0 +1,6 @@
+.left-block {
+    width: 200px;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+}
